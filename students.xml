@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <studentNumber>1</studentNumber>
+        <studentName>John Doe</studentName>
+        <quizzes>
+            <quiz>85</quiz>
+            <quiz>78</quiz>
+            <quiz>92</quiz>
+            <quiz>882</quiz>
+            <quiz>95</quiz>
+        </quizzes>
+    </student>
+    <student>
+        <studentNumber>2</studentNumber>
+        <studentName>Jane Smith</studentName>
+        <quizzes>
+            <quiz>75</quiz>
+            <quiz>82</quiz>
+            <quiz>90</quiz>
+            <quiz>85</quiz>
+            <quiz>88</quiz>
+        </quizzes>
+    </student>
+    <student>
+        <studentNumber>3</studentNumber>
+        <studentName>Another Student</studentName>
+        <quizzes>
+            <quiz>80</quiz>
+            <quiz>85</quiz>
+            <quiz>88</quiz>
+            <quiz>92</quiz>
+            <quiz>782</quiz>
+        </quizzes>
+    </student>
+</students>
